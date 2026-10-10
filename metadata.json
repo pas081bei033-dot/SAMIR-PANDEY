@@ -1,0 +1,6 @@
+{
+  "name": "OmniNotes - Engineering Notes & Folder Hub",
+  "description": "Folder-based notes repository for FEE, C, Physics, Math I, Math II, CG, CS, and Advance Electronics with 50MB file upload support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
